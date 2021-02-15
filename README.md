@@ -8,3 +8,5 @@
 - $TERMINAL: Alacritty
 - $WM: i3
 - $OTHER: tmux
+
+​[![Nazarikk's GitHub stats](https://github-readme-stats.vercel.app/api​?username=nazarikk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
