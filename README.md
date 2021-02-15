@@ -6,3 +6,5 @@
 - $EDITORS: Vim, Nvim
 - $DISTRO: Pop OS
 - $TERMINAL: Alacritty
+- $WM: i3
+- $OTHER: tmux
