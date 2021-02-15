@@ -9,4 +9,4 @@
 - $WM: i3
 - $OTHER: tmux
 
-!​[Nazarikk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazarikk&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=nazarikk&show_icons=true&theme=gruvbox&title_color=229900&icon_color=00FF00"></img>
