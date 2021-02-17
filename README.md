@@ -10,6 +10,10 @@
 - $TERMINAL: Alacritty, Termux(on Android) 
 - $WM: i3
 - $OTHER: tmux
+#### My Linux distribution roadmap
+```
+Ubuntu -> Pop OS -> ... 
+```
 
 <img src="https://github-readme-stats.vercel.app/api?username=nazarikk&show_icons=true&theme=gruvbox&title_color=229900&icon_color=00FF00"></img>
 
