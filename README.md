@@ -7,7 +7,7 @@
 ### Some of tools that I use
 - $EDITORS: Vim, Nvim
 - $DISTRO: Pop OS
-- $TERMINAL: Alacritty
+- $TERMINAL: Alacritty, Termux(on Android) 
 - $WM: i3
 - $OTHER: tmux
 
