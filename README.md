@@ -2,7 +2,7 @@
 
 ​![counter](https://komarev.com/ghpvc/?username=nazarikk&color=229900)
 
-- I’m currently working on: improved-flaskr, my Github Pages site
+- I’m currently working on: [improved-flaskr](https://github.com/Nazarikk/improved-flaskr), my Github Pages site
 - I’m currently learning: Python, Rust, Linux, Docker
 ### Some of tools that I use
 - $EDITORS: Vim, Nvim
