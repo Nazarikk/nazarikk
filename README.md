@@ -9,6 +9,7 @@
 - $DISTRO: Pop OS
 - $TERMINAL: Alacritty, Termux(on Android) 
 - $WM: i3
+- $BROWSER: qute-browser
 - $OTHER: tmux
 #### My Linux distributions roadmap
 ```
