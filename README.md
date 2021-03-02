@@ -16,8 +16,8 @@
 Ubuntu -> Pop OS -> ... 
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=nazarikk&show_icons=true&theme=gruvbox&title_color=229900&icon_color=00FF00"></img>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=nazarikk&show_icons=true&theme=gruvbox&title_color=229900&icon_color=00FF00"></img></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazarikk&show_icons=true&theme=gruvbox&title_color=229900&icon_color=00FF00&layout=compact"></img>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazarikk&show_icons=true&theme=gruvbox&title_color=229900&icon_color=00FF00&layout=compact"></img></a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/​?user=Nazarikk&theme=merko"></img>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/​?user=Nazarikk&theme=merko"></img></a>
