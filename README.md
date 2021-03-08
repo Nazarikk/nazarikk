@@ -13,7 +13,7 @@
 - $OTHER: tmux
 #### My Linux distributions roadmap
 ```
-Ubuntu -> Pop OS -> ... 
+Ubuntu -> Pop OS -> Mint -> ... 
 ```
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=nazarikk&show_icons=true&theme=gruvbox&title_color=229900&icon_color=00FF00"></img></a>
