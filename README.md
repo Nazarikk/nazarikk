@@ -8,12 +8,12 @@
 - $EDITORS: Vim, Nvim
 - $DISTRO: Linux Mint
 - $TERMINAL: Alacritty, Termux(on Android) 
-- $WM: i3
+- $WM: sway (Arch), Cinnamon (Mint) 
 - $BROWSER: qute-browser
 - $OTHER: tmux
 #### My Linux distributions roadmap
 ```
-Ubuntu -> Pop OS -> Mint -> ... 
+Ubuntu -> Pop OS -> Mint -> Arch Linux (as second system) 
 ```
 
 #### Also making Linux From Scratch
