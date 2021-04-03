@@ -6,7 +6,7 @@
 - I’m currently learning: Python, Rust, Linux, Docker
 ### Some of tools that I use
 - $EDITORS: Vim, Nvim
-- $DISTRO: Linux Mint
+- $DISTRO: Linux Mint and Arch 
 - $TERMINAL: Alacritty, Termux(on Android) 
 - $WM: sway (Arch), Cinnamon (Mint) 
 - $BROWSER: qute-browser
